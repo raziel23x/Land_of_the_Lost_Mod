@@ -1,0 +1,11 @@
+{
+  "group": "land_of_the_lost",
+  "type": "minecraft:smelting",
+  "experience": 12,
+  "ingredient": {
+    "tag": "minecraft:coals"
+  },
+  "result": {
+    "item": "land_of_the_lost:carbon"
+  }
+}

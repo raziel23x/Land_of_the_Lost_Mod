@@ -1,0 +1,11 @@
+{
+  "group": "land_of_the_lost",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:stick"
+  },
+  "result": {
+    "item": "minecraft:torch"
+  }
+}

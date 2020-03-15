@@ -1,0 +1,44 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Carbon"
+      },
+      {
+        "value": "CUSTOM:EnhancedCarbon"
+      },
+      {
+        "value": "CUSTOM:Carbon"
+      },
+      {
+        "value": "CUSTOM:EnhancedCarbon"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:EnhancedCarbon"
+      },
+      {
+        "value": "CUSTOM:Carbon"
+      },
+      {
+        "value": "CUSTOM:EnhancedCarbon"
+      },
+      {
+        "value": "CUSTOM:Carbon"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnhancedDiamondCompond"
+    },
+    "name": "enhanceddiamondcompondrecipe",
+    "namespace": "mod"
+  }
+}

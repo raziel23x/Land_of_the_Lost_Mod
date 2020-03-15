@@ -1,0 +1,323 @@
+{
+  "id_map": {
+    "ENTITY": 8
+  },
+  "mod_elements": [
+    {
+      "name": "EnchancedDiamond",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_diamond"
+    },
+    {
+      "name": "Carbon",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CarbonRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carbon_recipe"
+    },
+    {
+      "name": "EnhancedCarbon",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_carbon"
+    },
+    {
+      "name": "EnhancedCarbonRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_carbon_recipe"
+    },
+    {
+      "name": "EnhancedDiamondCompond",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_diamond_compond"
+    },
+    {
+      "name": "EnhancedDiamondCompondRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_diamond_compond_recipe"
+    },
+    {
+      "name": "EnhancedDiamondRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_diamond_recipe"
+    },
+    {
+      "name": "LandoftheLost",
+      "type": "tab",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "landofthelostcreativetab"
+    },
+    {
+      "name": "EnhancedDiamondShears",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EnhancedDiamondShearsRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Enhanced_diamondPickaxe",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_diamond_pickaxe"
+    },
+    {
+      "name": "Enhanced_diamondAxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_diamond_axe"
+    },
+    {
+      "name": "Enhanced_diamondSword",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_diamond_sword"
+    },
+    {
+      "name": "Enhanced_diamondShovel",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_diamond_shovel"
+    },
+    {
+      "name": "Enhanced_diamondHoe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_diamond_hoe"
+    },
+    {
+      "name": "Enhanced_diamondPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Enhanced_diamondAxeRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Enhanced_diamondSwordRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Enhanced_diamondShovelRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Enhanced_diamondHoeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Enhanced_DiamondArmor",
+      "type": "armor",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enhanced_diamond",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Enhanced_DiamondArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Enhanced_DiamondArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Enhanced_DiamondArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Enhanced_DiamondArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TorchRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "BeetrootRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ClayRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondHorseArmorRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FlintRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GlowstoneDustRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.land_of_the_lost.carbon": "Carbon",
+      "item.land_of_the_lost.enhanced_diamondbody": "Enhanced Diamond Chestplate",
+      "item.land_of_the_lost.enhanced_diamondlegs": "Enhanced Diamond Leggings",
+      "item.land_of_the_lost.enhanced_diamondboots": "Enhanced Diamond Boots",
+      "item.land_of_the_lost.enhanced_diamond_pickaxe": "Enhanced Diamond Pickaxe",
+      "itemGroup.tablandofthelostcreativetab": "Land of the Lost",
+      "item.land_of_the_lost.enhanced_carbon": "Enhanced Carbon",
+      "item.land_of_the_lost.enhanced_diamond": "Enhanced Diamond",
+      "item.land_of_the_lost.enhanced_diamond_hoe": "Enhanced Diamond Hoe",
+      "item.land_of_the_lost.enhanced_diamond_compond": "Enhanced Diamond Compond",
+      "item.land_of_the_lost.enhanced_diamondhelmet": "Enhanced Diamond Helmet",
+      "item.land_of_the_lost.enhanceddiamondshears": "Enhanced Diamond Shears",
+      "item.land_of_the_lost.enhanced_diamond_sword": "Enhanced Diamond Sword",
+      "item.land_of_the_lost.enhanced_diamond_shovel": "Enhanced Diamond Shovel",
+      "item.land_of_the_lost.enhanced_diamond_axe": "Enhanced Diamond Axe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "land_of_the_lost",
+    "modName": "Land of the Lost",
+    "version": "0.0.1",
+    "author": "raziel23x",
+    "websiteURL": "https://www.curseforge.com/members/raziel23x/projects",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "credits": "Recipes and resources for Land of the lost modpack",
+    "modElementsPackage": "com.raziel23x.land_of_the_lost",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000211618
+}

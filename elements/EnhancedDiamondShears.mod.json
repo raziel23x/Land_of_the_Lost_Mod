@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "enhanced_diamond_shears",
+    "customModelName": "Normal",
+    "name": "Enhanced Diamond Shears",
+    "creativeTab": {
+      "value": "CUSTOM:LandoftheLost"
+    },
+    "toolType": "Shears",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 3254,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "land_of_the_lost",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "land_of_the_lost:enchanced_diamond"
+    },
+    "2": {
+      "item": "land_of_the_lost:enchanced_diamond"
+    },
+    "3": {
+      "item": "land_of_the_lost:enchanced_diamond"
+    },
+    "4": {
+      "item": "land_of_the_lost:enchanced_diamond"
+    },
+    "5": {
+      "item": "land_of_the_lost:enchanced_diamond"
+    },
+    "6": {
+      "item": "land_of_the_lost:enchanced_diamond"
+    },
+    "7": {
+      "item": "land_of_the_lost:enchanced_diamond"
+    },
+    "8": {
+      "item": "land_of_the_lost:enchanced_diamond"
+    }
+  },
+  "result": {
+    "item": "land_of_the_lost:enchanced_diamond_armorbody",
+    "count": 1
+  }
+}

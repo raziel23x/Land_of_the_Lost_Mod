@@ -1,0 +1,42 @@
+{
+  "group": "land_of_the_lost",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "land_of_the_lost:carbon"
+    },
+    "1": {
+      "item": "land_of_the_lost:enhanced_carbon"
+    },
+    "2": {
+      "item": "land_of_the_lost:carbon"
+    },
+    "3": {
+      "item": "land_of_the_lost:enhanced_carbon"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "land_of_the_lost:enhanced_carbon"
+    },
+    "6": {
+      "item": "land_of_the_lost:carbon"
+    },
+    "7": {
+      "item": "land_of_the_lost:enhanced_carbon"
+    },
+    "8": {
+      "item": "land_of_the_lost:carbon"
+    }
+  },
+  "result": {
+    "item": "land_of_the_lost:enhanced_diamond_compond",
+    "count": 1
+  }
+}

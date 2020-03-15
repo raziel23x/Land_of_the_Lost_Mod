@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "enhanced_diamond_sword",
+    "customModelName": "Normal",
+    "name": "Enhanced Diamond Sword",
+    "creativeTab": {
+      "value": "CUSTOM:LandoftheLost"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 8,
+    "efficiency": 14.0,
+    "attackSpeed": 1.0,
+    "enchantability": 56,
+    "damageVsEntity": 8.0,
+    "usageCount": 1741,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:EnchancedDiamond"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "land_of_the_lost",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "land_of_the_lost:enhanced_diamond"
+    },
+    "1": {
+      "item": "land_of_the_lost:enhanced_diamond"
+    },
+    "2": {
+      "item": "land_of_the_lost:enhanced_diamond"
+    },
+    "3": {
+      "item": "land_of_the_lost:enhanced_diamond"
+    },
+    "5": {
+      "item": "land_of_the_lost:enhanced_diamond"
+    },
+    "6": {
+      "item": "land_of_the_lost:enhanced_diamond"
+    },
+    "8": {
+      "item": "land_of_the_lost:enhanced_diamond"
+    }
+  },
+  "result": {
+    "item": "land_of_the_lost:enhanced_diamondlegs",
+    "count": 1
+  }
+}

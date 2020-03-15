@@ -1,0 +1,30 @@
+{
+  "group": "land_of_the_lost",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "land_of_the_lost:enhanced_diamond"
+    },
+    "1": {
+      "item": "land_of_the_lost:enhanced_diamond"
+    },
+    "2": {
+      "item": "land_of_the_lost:enhanced_diamond"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "land_of_the_lost:enhanced_diamond_pickaxe",
+    "count": 1
+  }
+}
