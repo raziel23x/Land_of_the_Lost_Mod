@@ -1,0 +1,13 @@
+{
+  "group": "land_of_the_lost",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:string",
+    "count": 4
+  }
+}
