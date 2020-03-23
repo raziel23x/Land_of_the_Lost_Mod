@@ -1,6 +1,6 @@
 {
   "group": "land_of_the_lost",
-  "type": "minecraft:smelting",
+  "type": "minecraft:blasting",
   "experience": 0,
   "ingredient": {
     "tag": "minecraft:coals"

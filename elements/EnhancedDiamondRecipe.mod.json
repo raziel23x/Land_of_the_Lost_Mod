@@ -3,7 +3,7 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Blasting",
-    "xpReward": 0.0,
+    "xpReward": 16.0,
     "recipeRetstackSize": 1,
     "recipeShapeless": false,
     "blastingInputStack": {

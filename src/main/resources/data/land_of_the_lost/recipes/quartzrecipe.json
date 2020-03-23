@@ -3,7 +3,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:quartz_block"
+      "tag": "forge:ores/quartz"
     }
   ],
   "result": {

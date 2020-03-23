@@ -1,7 +1,7 @@
 {
   "group": "land_of_the_lost",
   "type": "minecraft:blasting",
-  "experience": 0,
+  "experience": 16,
   "ingredient": {
     "item": "land_of_the_lost:enhanced_diamond_compond"
   },

@@ -312,14 +312,6 @@
       "ids": {}
     },
     {
-      "name": "QuartzRecipe",
-      "type": "recipe",
-      "sortid": 51,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
       "name": "StoneRecipe",
       "type": "recipe",
       "sortid": 52,
@@ -347,6 +339,14 @@
       "name": "WheatSeedRecipe",
       "type": "recipe",
       "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "QuartzRecipe",
+      "type": "recipe",
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -391,5 +391,5 @@
     "modElementsPackage": "com.raziel23x.land_of_the_lost",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000211618
+  "mcreatorVersion": 202000212518
 }
