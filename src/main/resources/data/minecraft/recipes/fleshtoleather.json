@@ -1,0 +1,11 @@
+{
+  "group": "land_of_the_lost",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "result": {
+    "item": "minecraft:leather"
+  }
+}

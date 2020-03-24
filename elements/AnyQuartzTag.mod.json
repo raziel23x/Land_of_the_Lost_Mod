@@ -1,0 +1,25 @@
+{
+  "_fv": 6,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.QUARTZ_BLOCK#0"
+      },
+      {
+        "value": "Blocks.QUARTZ_BLOCK#1"
+      },
+      {
+        "value": "Blocks.QUARTZ_BLOCK#2"
+      },
+      {
+        "value": "Blocks.QUARTZ_BLOCK#3"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "any_quartz_tag",
+    "namespace": "minecraft"
+  }
+}
