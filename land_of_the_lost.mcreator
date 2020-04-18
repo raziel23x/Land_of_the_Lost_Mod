@@ -402,10 +402,10 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "1.14.4",
+    "currentGenerator": "1.15.2",
     "credits": "Recipes and resources for Land of the lost modpack",
     "modElementsPackage": "com.raziel23x.land_of_the_lost",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202000212518
+  "mcreatorVersion": 202000316610
 }

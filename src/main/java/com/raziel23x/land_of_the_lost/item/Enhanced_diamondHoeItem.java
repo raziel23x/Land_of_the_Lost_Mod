@@ -43,7 +43,7 @@ public class Enhanced_diamondHoeItem extends LandoftheLostElements.ModElement {
 			}
 
 			public Ingredient getRepairMaterial() {
-				return null;
+				return Ingredient.EMPTY;
 			}
 		}, -3f, new Item.Properties().group(LandoftheLostItemGroup.tab)) {
 		}.setRegistryName("enhanced_diamond_hoe"));

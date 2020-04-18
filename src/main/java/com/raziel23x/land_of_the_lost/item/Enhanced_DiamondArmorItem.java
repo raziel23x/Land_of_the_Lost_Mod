@@ -14,6 +14,7 @@ import net.minecraft.item.IArmorMaterial;
 import net.minecraft.item.ArmorItem;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.entity.Entity;
+import net.minecraft.client.renderer.model.ModelRenderer;
 
 import com.raziel23x.land_of_the_lost.itemgroup.LandoftheLostItemGroup;
 import com.raziel23x.land_of_the_lost.LandoftheLostElements;
@@ -88,5 +89,17 @@ public class Enhanced_DiamondArmorItem extends LandoftheLostElements.ModElement 
 				return "land_of_the_lost:textures/models/armor/enhanced_diamond_armor_layer_" + (slot == EquipmentSlotType.LEGS ? "2" : "1") + ".png";
 			}
 		}.setRegistryName("enhanced_diamondboots"));
+	}
+
+	@OnlyIn(Dist.CLIENT)
+	public static void addBoxHelper(ModelRenderer renderer, int texU, int texV, float x, float y, float z, int dx, int dy, int dz, float delta) {
+		addBoxHelper(renderer, texU, texV, x, y, z, dx, dy, dz, delta, renderer.mirror);
+	}
+
+	@OnlyIn(Dist.CLIENT)
+	public static void addBoxHelper(ModelRenderer renderer, int texU, int texV, float x, float y, float z, int dx, int dy, int dz, float delta,
+			boolean mirror) {
+		renderer.mirror = mirror;
+		renderer.addBox("", x, y, z, dx, dy, dz, delta, texU, texV);
 	}
 }

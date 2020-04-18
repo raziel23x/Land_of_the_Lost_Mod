@@ -1,5 +1,5 @@
 modLoader="javafml"
-loaderVersion="[28,)"
+loaderVersion="[31,)"
 
 [[mods]]
 modId="land_of_the_lost"
@@ -8,12 +8,12 @@ displayName="Land of the Lost"
 credits="Recipes and resources for Land of the lost modpack"
 displayURL="https://www.curseforge.com/members/raziel23x/projects"
 logoFile="logo.png"
-authors="raziel23x, MCreator"
+authors="raziel23x"
 
 [[dependencies.land_of_the_lost]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.14.4]"
+    versionRange="[1.15.2]"
     ordering="NONE"
     side="BOTH"
 

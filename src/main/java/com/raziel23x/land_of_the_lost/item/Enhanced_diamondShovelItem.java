@@ -43,7 +43,7 @@ public class Enhanced_diamondShovelItem extends LandoftheLostElements.ModElement
 			}
 
 			public Ingredient getRepairMaterial() {
-				return null;
+				return Ingredient.EMPTY;
 			}
 		}, 1, -3f, new Item.Properties().group(LandoftheLostItemGroup.tab)) {
 		}.setRegistryName("enhanced_diamond_shovel"));
